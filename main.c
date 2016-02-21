@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include "text_process.h"
-int main()
+int main(int argc, char *argv[]))
 {
 char ch ;
 printf("enter a character\n");
